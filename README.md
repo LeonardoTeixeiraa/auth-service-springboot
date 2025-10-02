@@ -4,7 +4,7 @@ Este projeto é uma aplicação **full stack** simples que implementa um sistema
 O front-end foi desenvolvido com HTML5 e CSS3, enquanto o back-end utiliza Java 21 com Spring Boot e um banco de dados MySQL rodando em container Docker.
 A ideia de utilizar uma imagem do MySQL conteinerizada com Docker é que a aplicação seja rápida e simples de executar, sem a necessidade de instalar o MySQL diretamente na máquina.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Front-end**
   - HTML5
