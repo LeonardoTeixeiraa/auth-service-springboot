@@ -36,7 +36,7 @@ A ideia de utilizar uma imagem do MySQL conteinerizada com Docker é que a aplic
 ---
 
 ## Estrutura do Projeto
-``
+```
 ├── src/
 │   ├── main/
 │   │   ├── java/com/leonardoteixeira/cadastroDeUsuarios/
