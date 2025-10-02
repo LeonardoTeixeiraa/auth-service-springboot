@@ -36,6 +36,7 @@ A ideia de utilizar uma imagem do MySQL conteinerizada com Docker é que a aplic
 ---
 
 ## Estrutura do Projeto
+``
 ├── src/
 │   ├── main/
 │   │   ├── java/com/leonardoteixeira/cadastroDeUsuarios/
@@ -50,7 +51,7 @@ A ideia de utilizar uma imagem do MySQL conteinerizada com Docker é que a aplic
 ├── docker-compose.yml            # Orquestração do container MySQL
 ├── pom.xml                       # Gerenciador de dependências Maven
 └── README.md                     # Documentação do projeto
-
+```
 
 ---
 
